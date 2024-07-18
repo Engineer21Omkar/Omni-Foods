@@ -1,0 +1,6 @@
+{
+  "icons": [
+    { "src": "img/favion-192.png", "type": "image/png", "sizes": "192x192" },
+    { "src": "img/favion-512.png", "type": "image/png", "sizes": "1512x1512" }
+  ]
+}
